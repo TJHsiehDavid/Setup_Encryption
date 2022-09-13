@@ -3,8 +3,11 @@
 
 指令：
 linux上安裝 
-$ sudo apt install python3-dev gcc
-$ pip3 install cython
+1.$ sudo apt install python3.8-dev gcc
+2.$ pip3 install Cython 
+  or 
+  $ python3.8 -m pip install Cython
+
 
 [使用方法]
 1.將想要加密的專案放到build底下
